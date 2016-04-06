@@ -388,12 +388,12 @@
         "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_play_dark.png"
     },
     {
-        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cast_ic_notification_0.png",
-        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable-xxhdpi/cast_ic_notification_0.png"
-    },
-    {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_plusone_small_off_client.png",
         "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-xxhdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cast_ic_notification_0.png",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable-xxhdpi/cast_ic_notification_0.png"
     },
     {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",

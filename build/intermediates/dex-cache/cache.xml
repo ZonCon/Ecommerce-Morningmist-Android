@@ -2,151 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-8.4.0_ef280feb5bc27503c7a87c4aed64aaa15fdafa83.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.4.0_67dca3b4e405d0faac0501726d32f2f9a849082b.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-8.4.0_68d1c77b1330b569df8f97f6dcc4b543f773c3b1.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/MeGo/platforms/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_dbff545bb8e5d3fd3114d6e8f6de10a08ff52b59.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="04de44f90606c77f3b28cf44861f306290505aac">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_804c4d40891b4da906c45859c704529c38ac856c.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.4.0_ee50483d04d826f4e49b82bd2ea50433dbe221a9.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-8.4.0_21e2b3d8a80cecbcbf41a64968f6d71d31c7202e.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_ca1f75e5cf8ffb3cf9b2aa11bfc37580c0720696.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_226548dae57c1881cdaf85ac7c16002029c0abda.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_b9d8a861ace5db95c6f3f87f19605cb0e0ac0404.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.4.0_4c5c25a0f0e0e1fc74b3307b1d15ce4d10f142e0.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.0_125ea47e567e625424952894fbe8987c40dfc222.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.4.0_dd38092725abc2d74a8df7f4fff789519e0040aa.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.4.0_f60c98886ff3c194e06af6c8655d1afddc6a88ab.jar" />
-    </item>
-    <item
         jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
         <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.4.0_5e898a742462b9dd773c88a2740990422e7776f0.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_c81d43ddc773b51bb91c9c2bc2f1e63189e4f0de.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-8.4.0_fc156b671f23f43f887dab63af53026b36962f15.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_a87be530a81a347312c5960895307c260351ebff.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-8.4.0_1975054f24b9fc5cafcaa1619b4fa37c020e7891.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_8df9a2f98c0ec671e7ff47ab8730980d7049dd96.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-8.4.0_35d9867444b6733a5cd72adc2cefcb854eba71d3.jar" />
     </item>
     <item
         jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
@@ -156,6 +16,34 @@
         <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.4.0_131971acf8ad1e142b205f429f58e92cdfa0dd1f.jar" />
     </item>
     <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-8.4.0_35d9867444b6733a5cd72adc2cefcb854eba71d3.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.4.0_f60c98886ff3c194e06af6c8655d1afddc6a88ab.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_8df9a2f98c0ec671e7ff47ab8730980d7049dd96.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.4.0_4c5c25a0f0e0e1fc74b3307b1d15ce4d10f142e0.jar" />
+    </item>
+    <item
         jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -163,18 +51,18 @@
         <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-8.4.0_6d5e16b516ed656ab11a60aa0f83c7d4ec18031b.jar" />
     </item>
     <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.0_125ea47e567e625424952894fbe8987c40dfc222.jar" />
+    </item>
+    <item
         jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
         <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_51f58ac5fb311956bdc0e749a2a97fb767b373fc.jar" />
-    </item>
-    <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-8.4.0_85a23e6ddeec1033c9b32b65accb206609b5c32d.jar" />
     </item>
     <item
         jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
@@ -191,11 +79,11 @@
         <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_220f2937b0c1de62903fe308666b86b1a75ac27f.jar" />
     </item>
     <item
-        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
-        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.4.0_9a578a24f8e67b33e1748c15cfc8930c213a1c5d.jar" />
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-8.4.0_21e2b3d8a80cecbcbf41a64968f6d71d31c7202e.jar" />
     </item>
     <item
         jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
@@ -203,6 +91,118 @@
         revision="23.0.2"
         sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
         <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.4.0_72a38c52bc16d867d2f74834454e9b958e05de21.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-8.4.0_1975054f24b9fc5cafcaa1619b4fa37c020e7891.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-8.4.0_68d1c77b1330b569df8f97f6dcc4b543f773c3b1.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_226548dae57c1881cdaf85ac7c16002029c0abda.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_ca1f75e5cf8ffb3cf9b2aa11bfc37580c0720696.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-8.4.0_ef280feb5bc27503c7a87c4aed64aaa15fdafa83.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_804c4d40891b4da906c45859c704529c38ac856c.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_b9d8a861ace5db95c6f3f87f19605cb0e0ac0404.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.4.0_9a578a24f8e67b33e1748c15cfc8930c213a1c5d.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-8.4.0_85a23e6ddeec1033c9b32b65accb206609b5c32d.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_c81d43ddc773b51bb91c9c2bc2f1e63189e4f0de.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-8.4.0_fc156b671f23f43f887dab63af53026b36962f15.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.4.0_67dca3b4e405d0faac0501726d32f2f9a849082b.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.4.0_ee50483d04d826f4e49b82bd2ea50433dbe221a9.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_a87be530a81a347312c5960895307c260351ebff.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.4.0_dd38092725abc2d74a8df7f4fff789519e0040aa.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/MeGo/platforms/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Morningmist/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_dbff545bb8e5d3fd3114d6e8f6de10a08ff52b59.jar" />
     </item>
 
 </items>
